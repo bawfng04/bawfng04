@@ -12,17 +12,23 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bawfng04&theme=react-dark)](https://github.com/bawfng04/github-readme-activity-graph)
 
-## 🔥 Streak
+<table>
+  <tr>
+    <td>
 
+## 📊 Github stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bawfng04&show_icons=true&theme=radical)
+    </td>
+    <td>
+  ## 🔥 Streak 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bawfng04&theme=radical&hide_border=true)](https://git.io/streak-stats)
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Github trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bawfng04&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-## 📊 Github stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bawfng04&show_icons=true&theme=radical)
 
 ## 👥 Visitors counts
 
