@@ -1,16 +1,24 @@
-## Hi there 👋
+## 📫 Contact
 
-<!--
-**bawfng04/bawfng04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✉️ Email: [nguyendinhbang53az@mail.com](mailto:nguyendinhbang53az@mail.com)
+- 🌐 Website: [About me](https://bawfng04.web.app/)
 
-Here are some ideas to get you started:
+## 🔥 Streak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bawfng04&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 🏆 Github trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bawfng04&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+## 📊 Github stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bawfng04&show_icons=true&theme=radical)
+
+## ©️ Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bawfng04&layout=compact&theme=radical)
+
+## 👥 Visitors counts
+
+![Visitor Count](https://komarev.com/ghpvc/?username=bawfng04&color=blue)
