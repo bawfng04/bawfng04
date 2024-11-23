@@ -1,7 +1,6 @@
-## 📫 Contact
+## ©️ Languages
 
-- ✉️ Email: [nguyendinhbang53az@mail.com](mailto:nguyendinhbang53az@mail.com)
-- 🌐 Website: [About me](https://bawfng04.web.app/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bawfng04&layout=compact&theme=radical)
 
 ## 📚 GeeksforGeeks
 
@@ -22,10 +21,11 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bawfng04&show_icons=true&theme=radical)
 
-## ©️ Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bawfng04&layout=compact&theme=radical)
-
 ## 👥 Visitors counts
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bawfng04&color=blue)
+
+## 📫 Contact
+
+- ✉️ Email: [nguyendinhbang53az@mail.com](mailto:nguyendinhbang53az@mail.com)
+- 🌐 Website: [About me](https://bawfng04.web.app/)
