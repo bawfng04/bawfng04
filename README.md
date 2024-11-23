@@ -8,6 +8,9 @@
 
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/bangwoo4)](https://www.geeksforgeeks.org/user/bangwoo4/)
 
+## 📊 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bawfng04&theme=react-dark)](https://github.com/bawfng04/github-readme-activity-graph)
 
 ## 🔥 Streak
 
