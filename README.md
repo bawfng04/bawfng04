@@ -27,13 +27,6 @@
 
 ---
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -76,6 +69,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bawfng04&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 From [bawfng04](https://github.com/bawfng04)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
