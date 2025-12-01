@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi!%20I'm%20Bang%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=My+code+works...+I+don't+know+why;Writing+code+I’ll+hate+tomorrow;Ctrl-C+and+Ctrl-V+are+my+best+friends;Still+fixing+yesterday’s+bugs)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/🌐_Website-About_Me-FF6B6B?style=for-the-badge)](https://aboutme-bawfng04.web.app)
@@ -43,7 +43,7 @@
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bawfng04/bawfng04/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/bawfng04/bawfng04/output/github-snake-dark.svg"/>
 </div>
 
 ---
@@ -51,7 +51,7 @@
 ## Coding Profiles
 
 <div align="center">
-  
+
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/bangwoo4)](https://www.geeksforgeeks.org/user/bangwoo4/)
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/bangwoo4/profile)
@@ -61,7 +61,7 @@
 ---
 
 <div align="center">
-  
+
 ### Let's Connect!
 
 **I'm always open to collaborating on interesting projects and innovative ideas!**
