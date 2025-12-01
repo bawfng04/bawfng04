@@ -76,4 +76,3 @@ From [bawfng04](https://github.com/bawfng04)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
-
