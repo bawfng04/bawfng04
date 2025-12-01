@@ -19,6 +19,14 @@
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bawfng04/bawfng04/output/github-snake-dark.svg"/>
+</div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -36,14 +44,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bawfng04&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bawfng04/bawfng04/output/github-snake-dark.svg"/>
 </div>
 
 ---
