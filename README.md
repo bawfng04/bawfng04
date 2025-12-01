@@ -11,18 +11,14 @@
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bawfng04&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true"/>
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bawfng04/bawfng04/output/github-snake-dark.svg"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bawfng04&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
