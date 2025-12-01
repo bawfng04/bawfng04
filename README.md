@@ -1,40 +1,76 @@
-## ©️ Languages
+<div align="center">
+  
+# Hi! I'm Bang
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bawfng04&layout=compact&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=My+code+works...+I+don't+know+why;Writing+code+I’ll+hate+tomorrow;Ctrl-C+and+Ctrl-V+are+my+best+friends;Still+fixing+yesterday’s+bugs)](https://git.io/typing-svg)
 
-## 📊 Activity Graph
+[![Website](https://img.shields.io/badge/🌐_Website-About_Me-FF6B6B?style=for-the-badge)](https://aboutme-bawfng04.web.app)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-4ECDC4?style=for-the-badge)](mailto:nguyendinhbang53az@mail.com)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bawfng04&theme=react-dark)](https://github.com/bawfng04/github-readme-activity-graph)
+</div>
 
-<table>
-  <tr>
-    <td>
+---
 
-## 📊 Github stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bawfng04&show_icons=true&theme=radical)
-    </td>
-    <td>
-  ## 🔥 Streak 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bawfng04&theme=radical&hide_border=true)](https://git.io/streak-stats)
-    </td>
-  </tr>
-</table>
+## Contribution Graph
 
-## 🏆 Github trophies
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bawfng04&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true"/>
+</div>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bawfng04&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+---
 
-## 📚 GeeksforGeeks
+## GitHub Analytics
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/bangwoo4/profile)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bawfng04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bawfng04&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawfng04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F"/>
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bawfng04&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bawfng04/bawfng04/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+  
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/bangwoo4)](https://www.geeksforgeeks.org/user/bangwoo4/)
 
-## 👥 Visitors counts
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/bangwoo4/profile)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=bawfng04&color=blue)
+</div>
 
-## 📫 Contact
+---
 
-- ✉️ Email: [nguyendinhbang53az@mail.com](mailto:nguyendinhbang53az@mail.com)
-- 🌐 Website: [About me](https://aboutme-bawfng04.web.app)
+<div align="center">
+  
+### Let's Connect!
+
+**I'm always open to collaborating on interesting projects and innovative ideas!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=bawfng04&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+From [bawfng04](https://github.com/bawfng04)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
+
