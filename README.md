@@ -77,4 +77,7 @@ From [bawfng04](https://github.com/bawfng04)
 #### Recent Activities
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](undefined) in [bawfng04/bawfng04](https://github.com/bawfng04/bawfng04)
+2. 💪 Opened PR [#2](undefined) in [TechNova-Group-CNPMNC/BE-Online-Doctor-Appointment](https://github.com/TechNova-Group-CNPMNC/BE-Online-Doctor-Appointment)
+3. 💪 Opened PR [#1](undefined) in [TechNova-Group-CNPMNC/BE-Online-Doctor-Appointment](https://github.com/TechNova-Group-CNPMNC/BE-Online-Doctor-Appointment)
 <!--END_SECTION:activity-->
