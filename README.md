@@ -77,7 +77,7 @@ From [bawfng04](https://github.com/bawfng04)
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#33](undefined) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
-2. 💪 Opened PR [#33](undefined) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
-3. ❌ Merged PR [#32](undefined) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
+1. ❌ Merged PR [#36](undefined) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
+2. 💪 Opened PR [#36](undefined) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
+3. ❌ Merged PR [#35](undefined) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
 <!--END_SECTION:activity-->
