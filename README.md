@@ -30,14 +30,17 @@
 ## GitHub Analytics
 
 <div align="center">
+  <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bawfng04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bawfng04&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"/>
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawfng04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F"/>
 </div>
-
+-->
 ---
 <!--
 ## GitHub Trophies
