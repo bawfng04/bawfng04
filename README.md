@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi!%20I'm%20Bang%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%E2%B8%9C%28%EF%BD%A1%CB%83%20%E1%B5%94%20%CB%82%29%E2%B8%9D%E2%99%A1&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=My+code+works...+I+don't+know+why;Writing+code+I’ll+hate+tomorrow;Ctrl-C+and+Ctrl-V+are+my+best+friends;Still+fixing+yesterday’s+bugs)](https://git.io/typing-svg)
 
@@ -39,7 +39,7 @@
 </div>
 
 ---
-
+<!--
 ## GitHub Trophies
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 ---
-
+-->
 <div align="center">
 
 ### Let's Connect!
