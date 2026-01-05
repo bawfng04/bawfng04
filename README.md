@@ -80,7 +80,7 @@ From [bawfng04](https://github.com/bawfng04)
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/MobileTBDT/finflow/pull/42) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
-2. 💪 Opened PR [#42](https://github.com/MobileTBDT/finflow/pull/42) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
-3. 🎉 Merged PR [#41](https://github.com/MobileTBDT/finflow/pull/41) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
+1. ❌ Closed PR [#43](https://github.com/MobileTBDT/finflow/pull/43) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
+2. 💪 Opened PR [#43](https://github.com/MobileTBDT/finflow/pull/43) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
+3. 🎉 Merged PR [#42](https://github.com/MobileTBDT/finflow/pull/42) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
 <!--END_SECTION:activity-->
