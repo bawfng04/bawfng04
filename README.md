@@ -80,7 +80,7 @@ From [bawfng04](https://github.com/bawfng04)
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/J2TEAM/vibe.j2team.org/pull/24) in [J2TEAM/vibe.j2team.org](https://github.com/J2TEAM/vibe.j2team.org)
-2. 💪 Opened PR [#44](https://github.com/MobileTBDT/finflow/pull/44) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
+1. 🎉 Merged PR [#24](https://github.com/J2TEAM/vibe.j2team.org/pull/24) in [J2TEAM/vibe.j2team.org](https://github.com/J2TEAM/vibe.j2team.org)
+2. 💪 Opened PR [#24](https://github.com/J2TEAM/vibe.j2team.org/pull/24) in [J2TEAM/vibe.j2team.org](https://github.com/J2TEAM/vibe.j2team.org)
 3. ❌ Closed PR [#43](https://github.com/MobileTBDT/finflow/pull/43) in [MobileTBDT/finflow](https://github.com/MobileTBDT/finflow)
 <!--END_SECTION:activity-->
