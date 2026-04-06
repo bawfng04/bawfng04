@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=My+code+works...+I+don't+know+why;Writing+code+I’ll+hate+tomorrow;Ctrl-C+and+Ctrl-V+are+my+best+friends;Still+fixing+yesterday’s+bugs)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/🌐_Website-About_Me-FF6B6B?style=for-the-badge)](https://aboutme-bawfng04.web.app)
+[![Website](https://img.shields.io/badge/🌐_Website-About_Me-FF6B6B?style=for-the-badge)](https://bawfng04.pages.dev)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-4ECDC4?style=for-the-badge)](mailto:nguyendinhbang53az@mail.com)
 
 </div>
